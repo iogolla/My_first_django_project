@@ -1,1 +1,1 @@
-# A simple introduction to Python Web Development uding Django Framework
+# A Simple Introduction to Python Web Development using Django Framework
